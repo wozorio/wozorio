@@ -1,8 +1,8 @@
 ### Hi there! I'm Wellington Ozorio 👋
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=wozorio&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozorio&theme=tokyonight&layout=compact&langs_count=16" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api?username=wozorio&theme=solarized-dark&show_icons=true&include_all_commits=true&count_private=true" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozorio&theme=solarized-dark&layout=compact&langs_count=16" height="180em">
 </div>
 <div>
   <a href="mailto:well.ozorio@gmail.com" target="_blank">
